@@ -1,7 +1,6 @@
 import 'package:ambulance/const/widgets/bottom_navigation.dart';
 import 'package:ambulance/pages/profile/phone_number_screen.dart';
 import 'package:ambulance/pages/profile/pin_code_screen.dart';
-import 'package:ambulance/pages/profile/profile_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
